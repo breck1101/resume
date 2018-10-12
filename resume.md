@@ -1,7 +1,10 @@
 ## Breck Ashby
 Jr Web Developer at Pedestal Pro
+
 Current CS Student at Utah Valley University
+
 Photograher and Designer by Hobby
+
 [Email](mailto:breckashby@gmail.com) [GitHub](https://github.com/breck1101) [Facebook](https://www.facebook.com/breck.ashby) 
 
 ---
